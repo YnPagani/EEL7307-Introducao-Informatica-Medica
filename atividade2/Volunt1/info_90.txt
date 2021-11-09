@@ -1,0 +1,32 @@
+======== EXAM ==================
+Exam ID: 90
+HbA1c: 0.0
+Date start: 1565898353202
+Date end: 1565899399897
+MAC: 00:07:80:73:e9:f3
+Modules: OBRIEN: true , HRV: true , BRS: true
+Procedure STANDING: 1565899290407
+Procedure VALSALVA_MANEUVER: 1565899395577
+Procedure RESTING: 1565898856481
+Procedure DEEP_BREATHING: 1565898947497
+Fs: 500 Hz
+Drugs: 
+Exam comments: 
+
+======== PATIENT ===============
+Patient name: 
+Patient ID: 132
+Gender: MALE
+Diabetes type: None
+Volunteer: true
+DOB: 726372000000
+Start diabetes: 1565838000000
+Phone: 
+Email: 
+Street: 
+City: 
+State: 
+Country: 
+Weight: 0.0
+Height: 0.0
+Patient comments: 
